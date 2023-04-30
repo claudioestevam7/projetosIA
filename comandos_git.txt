@@ -15,11 +15,9 @@ git commit -m "first commit22"
 git push -u origin main
 
 #segundo o git, push em um repositorio ja criado
-git add .
 git remote add origin https://github.com/claudioestevam7/projetosIA.git
 git branch -M main
 git push -u origin main
-
 
 #variaveis globais
 git config --global user.email "claudioestevam7@hotmail.com.br"
