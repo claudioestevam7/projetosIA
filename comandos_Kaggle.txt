@@ -1,0 +1,5 @@
+
+
+
+#listas as competicoes pelo maior premio
+kaggle competitions list --sort-by prize

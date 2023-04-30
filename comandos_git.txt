@@ -1,0 +1,19 @@
+
+#nao pode arquivos maioes que 100 Mb
+
+# comandos mais importantes
+init - Criar um novo projeto
+remote add origin  - Vincular um projeto local a um projeto online
+add - Adicionar arquivos para acompanhar
+status - Retornar a uma lista de arquivos no projeto local
+commit - Salvar as alterações nesses arquivos
+push - Copiar essas alterações no projeto online
+
+# para atualizar um repositorio ja iniciado basta fazer os seguintes codigos
+git add .
+git commit -m "first commit22"
+git push -u origin main
+
+
+#variaveis globais
+git config --global user.email "claudioestevam7@hotmail.com.br"
